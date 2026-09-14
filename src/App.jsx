@@ -130,7 +130,7 @@ Familiar with Git and GitHub for version control and collaborative development.
 
             </p>
             <div className="hero-actions">
-              <a className="btn btn-primary" href="/portfolio 2/public/RehobothS_Software_Developer_Sep_2026.pdf" download="Rehoboth-S-Resume.pdf">
+              <a className="btn btn-primary" href="/portfolio 2/public/RehobothS_resume.pdf" download="Rehoboth-S-Resume.pdf">
   Download Resume
 </a>
               <a className="btn" href="#projects">

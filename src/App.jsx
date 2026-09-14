@@ -1,5 +1,5 @@
 import "./App.css";
-import image from "/My portfolio/src/picture/Profile picture.png";
+import profilePic from "./picture/Profile picture.png";
 
 const skillGroups = [
   {
@@ -154,7 +154,7 @@ Familiar with Git and GitHub for version control and collaborative development.
           <div className="hero-photo">
             <div className="photo-frame">
              
-              <img src={image} alt="Rehoboth S" />
+              <img src={profilePic} alt="Rehoboth S" />
             </div>
           </div>
         </section>
